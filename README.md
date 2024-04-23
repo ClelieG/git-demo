@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README FOR git-demo
 
 Working with git 
@@ -10,3 +11,6 @@ Working with git
         "some message" whenever you want to make a commit 
         4. "git push origin main" push the changes to github 
         5. repeat steps 2-4
+=======
+Hello testing
+>>>>>>> 559417b202ea21ffa29fd2094a0b79418cd1eeb0
